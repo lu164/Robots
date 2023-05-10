@@ -22,7 +22,7 @@ Logout and login again.
 
 ```
 cd ~/ros2_ws/src
-gir clone -b foxy https://github.com/IntelligentRoboticsLabs/Robots.git
+git clone -b foxy https://github.com/IntelligentRoboticsLabs/Robots.git
 ```
 
 6. Download the repos with the kobuki driver and utils
